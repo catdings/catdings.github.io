@@ -16,5 +16,5 @@ The channel's operator, Richardy Lobo Sapan, runs it on their own computer to up
 ## Policies
 - **Privacy Policy:** <https://catdings.github.io/privacy/>
 - **Terms of Service:** <https://catdings.github.io/terms/>
-- This tool uses YouTube API Services. Use of YouTube is subject to the [YouTube Terms of Service](<https://www.youtube.com/t/terms>), and Google handles data under the [Google Privacy Policy](<https://policies.google.com/privacy>).
+- This tool uses YouTube API Services. Use of YouTube is subject to the [YouTube Terms of Service](https://www.youtube.com/t/terms), and Google handles data under the [Google Privacy Policy](https://policies.google.com/privacy).
 - You can revoke the tool's access to a Google account at any time: <https://myaccount.google.com/connections>

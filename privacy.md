@@ -10,7 +10,7 @@ permalink: /privacy/
 CATding Publisher (the "App") is a private tool operated by **Richardy Lobo Sapan** that uploads the CATding channel's own videos to the operator's own YouTube, Instagram and TikTok accounts. This policy explains what data the App handles.
 
 ## 1. Whose data
-The App only signs in to accounts owned by its operator. It does not collect data from any other person, and it has no public users or sign-ups. Its website (catdings.github.io) is a static page hosted on GitHub Pages: it sets no cookies and runs no analytics. GitHub may log visits under the [GitHub Privacy Statement](<https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement>).
+The App only signs in to accounts owned by its operator. It does not collect data from any other person, and it has no public users or sign-ups. Its website (catdings.github.io) is a static page hosted on GitHub Pages: it sets no cookies and runs no analytics. GitHub may log visits under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
 
 ## 2. What data the App receives and why
 
@@ -38,9 +38,9 @@ Revoking access immediately stops the App from using the account.
 The App is not directed at children, and it does not knowingly process any child's data.
 
 ## 6. Google API Services
-**CATding Publisher uses YouTube API Services.** Using it is subject to the [YouTube Terms of Service](<https://www.youtube.com/t/terms>). You can revoke its access to your Google account at any time at <https://myaccount.google.com/connections>. Revoking also stops its access to YouTube data.
+**CATding Publisher uses YouTube API Services.** Using it is subject to the [YouTube Terms of Service](https://www.youtube.com/t/terms). You can revoke its access to your Google account at any time at <https://myaccount.google.com/connections>. Revoking also stops its access to YouTube data.
 
-The App's use of information received from Google APIs follows the [Google API Services User Data Policy](<https://developers.google.com/terms/api-services-user-data-policy>), including the Limited Use requirements. YouTube data is handled under the [Google Privacy Policy](<https://policies.google.com/privacy>).
+The App's use of information received from Google APIs follows the [Google API Services User Data Policy](https://developers.google.com/terms/api-services-user-data-policy), including the Limited Use requirements. YouTube data is handled under the [Google Privacy Policy](https://policies.google.com/privacy).
 
 ## 7. Changes
 We may update this policy. The date at the top shows the latest version.
