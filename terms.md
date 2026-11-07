@@ -25,11 +25,11 @@ All videos uploaded by the App are created by the operator. The operator is resp
 
 ## 4. Third-party platforms
 The App uses the official APIs of YouTube (Google), Instagram (Meta) and TikTok. Using those services is also subject to their own terms:
-- YouTube Terms of Service: https://www.youtube.com/t/terms
-- Google Privacy Policy: https://policies.google.com/privacy
-- Meta Terms: https://www.facebook.com/terms.php
-- Instagram Terms of Use: https://help.instagram.com/581066165581870
-- TikTok Terms of Service: https://www.tiktok.com/legal/terms-of-service
+- YouTube Terms of Service: <https://www.youtube.com/t/terms>
+- Google Privacy Policy: <https://policies.google.com/privacy>
+- Meta Terms: <https://www.facebook.com/terms.php>
+- Instagram Terms of Use: <https://help.instagram.com/581066165581870>
+- TikTok Terms of Service: <https://www.tiktok.com/legal/terms-of-service>
 
 The App is not endorsed by, sponsored by or affiliated with Google, YouTube, Meta, Instagram or TikTok.
 
@@ -40,4 +40,4 @@ The App is provided "as is", without warranties of any kind. We are not liable f
 We may update these terms. The date at the top shows the latest version.
 
 ## 7. Contact
-Questions about these terms: send a message to the CATding channel: YouTube https://www.youtube.com/@catding-s4m (About page) or TikTok https://www.tiktok.com/@catdings (direct message).
+Questions about these terms: send a message to the CATding channel: YouTube <https://www.youtube.com/@catding-s4m> (About page) or TikTok <https://www.tiktok.com/@catdings> (direct message).
