@@ -7,7 +7,7 @@ permalink: /privacy/
 
 *Last updated: 7 November 2026*
 
-CATding Publisher (the "App") is a private tool operated by **Richardy Lobo Sapan** that uploads the CATding channel's own videos to the operator's own YouTube, Instagram and TikTok accounts. This policy explains what data the App handles.
+CATding Publisher (the "App") is a private tool operated by **Richardy Lobo Sapan** that uploads the CATding channel's own videos to the operator's own YouTube, Instagram, Facebook Page and TikTok accounts. This policy explains what data the App handles.
 
 ## 1. Whose data
 The App only signs in to accounts owned by its operator. It does not collect data from any other person, and it has no public users or sign-ups. Its website (catdings.github.io) is a static page hosted on GitHub Pages: it sets no cookies and runs no analytics. GitHub may log visits under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).
@@ -17,7 +17,7 @@ The App only signs in to accounts owned by its operator. It does not collect dat
 | Platform | Permissions requested | Data received | Used for |
 |---|---|---|---|
 | YouTube (Google) | `youtube.upload` | An OAuth access and refresh token | Uploading the operator's videos to the operator's channel |
-| Instagram (Meta) | `instagram_basic`, `instagram_content_publish`, `pages_show_list`, `pages_read_engagement`, `business_management` | The linked Instagram account ID, Facebook Page name, and a Page access token | Publishing the operator's Reels to the operator's Instagram account |
+| Instagram and Facebook (Meta) | `instagram_basic`, `instagram_content_publish`, `pages_show_list`, `pages_read_engagement`, `business_management`, `pages_manage_posts` | The linked Instagram account ID, Facebook Page ID and name, and a Page access token | Publishing the operator's Reels to the operator's Instagram account and Facebook Page |
 | TikTok | `user.info.basic`, `video.upload`, `video.publish` | An access and refresh token, plus basic profile info (open ID, display name) | Sending the operator's videos to the operator's TikTok drafts, or posting them |
 
 The App does **not** read posts, messages, followers, comments or any other user's data.

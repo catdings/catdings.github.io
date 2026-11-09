@@ -10,9 +10,10 @@ CATding Publisher is the private publishing tool of the **CATding** channel, whi
 - YouTube: <https://www.youtube.com/@catding-s4m>
 - TikTok: <https://www.tiktok.com/@catdings>
 - Instagram: <https://www.instagram.com/catdings.ig>
+- Facebook: <https://www.facebook.com/1360156370521861>
 
 ## What it does
-The channel's operator, Richardy Lobo Sapan, runs it on their own computer to upload the channel's own finished videos, with their titles, descriptions and hashtags, to the operator's own YouTube channel (using **YouTube API Services**), Instagram account and TikTok account. It is not offered to anyone else, and it does not read or collect other users' data.
+The channel's operator, Richardy Lobo Sapan, runs it on their own computer to upload the channel's own finished videos, with their titles, descriptions and hashtags, to the operator's own YouTube channel (using **YouTube API Services**), Instagram account, Facebook Page and TikTok account. It is not offered to anyone else, and it does not read or collect other users' data.
 
 ## Policies
 - **Privacy Policy:** <https://catdings.github.io/privacy/>
