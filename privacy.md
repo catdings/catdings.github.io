@@ -7,7 +7,7 @@ permalink: /privacy/
 
 *Last updated: 7 November 2026*
 
-CATding Publisher (the "App") is a private tool operated by **Richardy Lobo Sapan** that uploads the CATding channel's own videos to the operator's own YouTube, Instagram, Facebook Page and TikTok accounts. This policy explains what data the App handles.
+CATding Publisher (the "App") is a private tool operated by the **CATding** channel that uploads the CATding channel's own videos to the operator's own YouTube, Instagram, Facebook Page and TikTok accounts. This policy explains what data the App handles.
 
 ## 1. Whose data
 The App only signs in to accounts owned by its operator. It does not collect data from any other person, and it has no public users or sign-ups. Its website (catdings.github.io) is a static page hosted on GitHub Pages: it sets no cookies and runs no analytics. GitHub may log visits under the [GitHub Privacy Statement](https://docs.github.com/site-policy/privacy-policies/github-general-privacy-statement).

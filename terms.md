@@ -7,7 +7,7 @@ permalink: /terms/
 
 *Last updated: 7 November 2026*
 
-CATding Publisher (the "App") is a private publishing tool operated by **Richardy Lobo Sapan** ("we", "us") for the CATding channel. It uploads short educational videos, which explain programming and AI with cat memes, from our own computer to our own accounts on YouTube, Instagram, Facebook and TikTok.
+CATding Publisher (the "App") is a private publishing tool operated by the **CATding** channel ("we", "us"). It uploads short educational videos, which explain programming and AI with cat memes, from our own computer to our own accounts on YouTube, Instagram, Facebook and TikTok.
 
 ## 1. Who can use the App
 The App is not a public service. It is used only by its operator, to publish videos to accounts the operator owns and controls. No other person can sign up for or use the App.
