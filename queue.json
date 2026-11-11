@@ -7,5 +7,14 @@
   "caption": "Off-by-one errors, explained by cats. An off-by-one error is a loop that runs one time too few or too many. In Python, range stops before its end number, so range(1, 3) only gives 1 and 2.\n\n#offbyone #python #learntocode #CATding #programming #coding #catmemes",
   "thumb_offset_ms": 400,
   "status": "queued"
+ },
+ {
+  "slug": "git",
+  "version": "git_v1",
+  "at": "2026-11-11T12:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/git-20261111-1900.mp4",
+  "caption": "Git, explained by cats. Git saves snapshots of your work. Commit to save, log to see history, checkout to bring an old version back, branch to experiment safely and merge to keep the result.\n\n#git #learntocode #github #CATding #programming #coding #catmemes",
+  "thumb_offset_ms": 400,
+  "status": "queued"
  }
 ]
