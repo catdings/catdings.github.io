@@ -26,15 +26,6 @@
   "posted_at": "2026-11-11T12:14+00:00"
  },
  {
-  "slug": "chatgpt",
-  "version": "chatgpt_v2",
-  "at": "2026-11-12T12:00:00+00:00",
-  "video_url": "https://catdings.github.io/v/chatgpt-20261112-1900.mp4",
-  "caption": "ChatGPT, explained by cats. ChatGPT writes by guessing the next piece of text, over and over, based on patterns from huge amounts of text. Usually right, sometimes confidently wrong, so check anything important.\n\n#chatgpt #ai #artificialintelligence #CATding #tech #learnontiktok #catmemes",
-  "thumb_offset_ms": 400,
-  "status": "queued"
- },
- {
   "slug": "noise-cancelling",
   "version": "noise-cancelling_v1",
   "at": "2026-11-13T04:00:00+00:00",
