@@ -15,7 +15,15 @@
   body { margin: 0; background: radial-gradient(circle at 50% 0%, #2D2824 0%, var(--bg) 70%); color: var(--cream);
          font-family: system-ui, -apple-system, "Segoe UI", Roboto, Arial, sans-serif; line-height: 1.5; }
   main { max-width: 520px; margin: 0 auto; padding: 40px 16px 32px; text-align: center; }
-  .logo { width: 128px; height: 128px; border-radius: 50%; border: 4px solid var(--orange); }
+  .cat { width: 200px; height: 200px; margin: 0 auto; animation: bob 2.4s ease-in-out infinite; }
+  .cat img { width: 100%; height: 100%; border-radius: 50%; border: 5px solid var(--orange);
+             box-shadow: 0 10px 30px rgba(233,132,42,.25); animation: tilt 4.8s ease-in-out infinite; }
+  .cat:hover img, .cat:active img { animation: wiggle .5s ease-in-out 2; }
+  @keyframes bob { 0%, 100% { transform: translateY(0); } 50% { transform: translateY(-12px); } }
+  @keyframes tilt { 0%, 100% { transform: rotate(-4deg); } 50% { transform: rotate(4deg); } }
+  @keyframes wiggle { 0%, 100% { transform: rotate(0); } 25% { transform: rotate(-12deg) scale(1.05); } 75% { transform: rotate(12deg) scale(1.05); } }
+  @media (prefers-reduced-motion: reduce) { .cat, .cat img { animation: none !important; } }
+  .btn.support { background: var(--cream); }
   h1 { margin: 12px 0 4px; font-size: 2.2rem; letter-spacing: .5px; }
   .tag { margin: 0; font-size: 1.15rem; color: var(--orange); font-weight: 700; font-style: italic; }
   .about { margin: 8px 0 24px; color: var(--muted); }
@@ -23,17 +31,13 @@
           border-radius: 16px; background: var(--orange); color: var(--ink); text-decoration: none; font-weight: 800; font-size: 1.1rem; }
   .btn small { font-weight: 600; opacity: .75; }
   .btn:hover, .btn:focus-visible { background: var(--cream); outline: none; }
-  h2 { margin: 32px 0 8px; font-size: 1.1rem; color: var(--cream); }
-  ul { list-style: none; padding: 0; margin: 0; }
-  li a { display: block; padding: 10px 14px; margin: 6px 0; border-radius: 12px; background: var(--card); color: var(--cream); text-decoration: none; }
-  li a:hover, li a:focus-visible { outline: 2px solid var(--orange); }
   footer { margin-top: 40px; padding-top: 16px; border-top: 1px solid #3a332d; font-size: .85rem; color: var(--muted); text-align: left; }
   footer a { color: var(--cream); }
 </style>
 </head>
 <body>
 <main>
-  <img class="logo" src="logo.png" alt="CATding logo: an orange cartoon cat">
+  <div class="cat"><img src="logo.png" alt="CATding's orange cartoon cat"></div>
   <h1>CATding</h1>
   <p class="tag">Programming & AI, explained by cats.</p>
   <p class="about">Short videos that teach one coding idea at a time, acted out by very real, very unbothered cats.</p>
@@ -43,12 +47,6 @@
       <a class="btn" href="https://www.instagram.com/catdings.ig" rel="me noopener"><span>Instagram</span><small>@catdings.ig</small></a>
       <a class="btn" href="https://www.facebook.com/1360156370521861" rel="me noopener"><span>Facebook</span><small>CATding</small></a>
   </nav>
-  <h2>Latest videos</h2>
-  <ul>
-      <li><a href="https://youtube.com/shorts/sXo23QNnaTI" rel="noopener">Big O, explained by cats</a></li>
-      <li><a href="https://youtube.com/shorts/7p9YRnqFC2o" rel="noopener">Recursion, explained by cats</a></li>
-      <li><a href="https://youtube.com/shorts/6FYi7CHDeH4" rel="noopener">Infinite loops, explained by a cat chasing its tail</a></li>
-  </ul>
   <footer>
     <p><strong>CATding Publisher</strong> is the private tool the channel's operator, Richardy Lobo Sapan, uses to upload
     CATding's own videos to its own YouTube channel (using YouTube API Services), Instagram account, Facebook Page and
