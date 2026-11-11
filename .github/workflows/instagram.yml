@@ -3,7 +3,7 @@ name: Instagram queue
 # that posts only if this didn't (it reads the status written back here).
 on:
   schedule:
-    - cron: "*/10 * * * *"   # GitHub may start scheduled runs some minutes late
+    - cron: "4,14,24,34,44,54 * * * *"   # off the busy :00; GitHub may still start runs late
   workflow_dispatch:
 concurrency:
   group: instagram-queue
