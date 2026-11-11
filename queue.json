@@ -33,5 +33,14 @@
   "caption": "The wedding invite scam, explained by cats. A wedding invitation on WhatsApp that ends in .apk is an app, not an invitation. Installed, it can read your SMS bank codes and empty your account. Real invites are photos, PDFs or links.\n\n#scam #cybersecurity #indonesia #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 400,
   "status": "queued"
+ },
+ {
+  "slug": "hashing",
+  "version": "hashing_v2",
+  "at": "2026-11-12T08:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/hashing-20261112-1500.mp4",
+  "caption": "Password hashing, explained by cats. Good websites never store your password. They store a hash: a one-way scramble that can't be reversed. Plus salt and a slow hash like bcrypt. If a site can email you your password, run.\n\n#cybersecurity #passwords #python #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 400,
+  "status": "queued"
  }
 ]
