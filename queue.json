@@ -51,5 +51,14 @@
   "caption": "ChatGPT, explained by cats. ChatGPT writes by guessing the next piece of text, over and over, based on patterns from huge amounts of text. Usually right, sometimes confidently wrong, so check anything important.\n\n#chatgpt #ai #artificialintelligence #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 400,
   "status": "queued"
+ },
+ {
+  "slug": "noise-cancelling",
+  "version": "noise-cancelling_v1",
+  "at": "2026-11-13T04:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/noise-cancelling-20261113-1100.mp4",
+  "caption": "Noise cancelling, explained by cats. Noise-cancelling headphones listen to the noise around you and play the exact opposite wave, so peaks meet valleys and cancel out. Great for a steady hum, weak against a sudden bark.\n\n#headphones #engineering #howitworks #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 400,
+  "status": "queued"
  }
 ]
