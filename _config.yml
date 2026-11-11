@@ -1,2 +1,3 @@
 title: CATding Publisher
 description: Publishing tool of the CATding channel
+exclude: [tools, queue.json, README.md]

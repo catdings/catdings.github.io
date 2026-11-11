@@ -1,0 +1,41 @@
+name: Instagram queue
+# Posts due Reels from queue.json. Cloud first; the owner's PC runs a backup task 40 min later
+# that posts only if this didn't (it reads the status written back here).
+on:
+  schedule:
+    - cron: "*/10 * * * *"   # GitHub may start scheduled runs some minutes late
+  workflow_dispatch:
+concurrency:
+  group: instagram-queue
+  cancel-in-progress: false
+permissions:
+  contents: write
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Post due Reels
+        env:
+          IG_TOKEN: ${{ secrets.IG_TOKEN }}
+          IG_USER_ID: ${{ secrets.IG_USER_ID }}
+        run: python3 tools/ig_post.py
+      - name: Save results, remove posted videos
+        run: |
+          python3 - <<'PY'
+          import json, os
+          q = json.load(open("queue.json"))
+          for item in q:
+              if item.get("status") in ("posted", "failed"):
+                  path = item["video_url"].split("catdings.github.io/", 1)[-1]
+                  if os.path.exists(path):
+                      os.remove(path)
+          PY
+          git config user.name "catding-bot"
+          git config user.email "catding-bot@users.noreply.github.com"
+          git add -A queue.json v || true
+          if ! git diff --cached --quiet; then
+            git commit -m "Instagram queue: results"
+            for i in 1 2 3; do git pull --rebase -q && git push -q && break; sleep 5; done
+          fi
