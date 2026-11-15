@@ -72,5 +72,14 @@
   "caption": "Works on my machine, explained by cats. Same code, different machine, different result: the environment changed. Pin your Python and library versions, or pack everything into a container, so every machine runs the same setup.\n\n#programming #python #docker #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4533,
   "status": "queued"
+ },
+ {
+  "slug": "api",
+  "version": "api_v1",
+  "at": "2026-11-16T05:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/api-20261116-1200.mp4",
+  "caption": "APIs, explained by cats. An API is how one program asks another for something: your app sends a request, the server sends back data. The app only knows the menu of things it can ask for.\n\n#api #coding #webdev #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 3333,
+  "status": "queued"
  }
 ]
