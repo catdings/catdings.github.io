@@ -33,5 +33,14 @@
   "caption": "The wedding invite scam, explained by cats. A wedding invitation on WhatsApp that ends in .apk is an app, not an invitation. Installed, it can read your SMS bank codes and empty your account. Real invites are photos, PDFs or links.\n\n#scam #cybersecurity #indonesia #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 400,
   "status": "queued"
+ },
+ {
+  "slug": "chatgpt",
+  "version": "chatgpt_v2",
+  "at": "2026-11-15T17:55:00+00:00",
+  "video_url": "https://catdings.github.io/v/chatgpt-20261116-0055.mp4",
+  "caption": "ChatGPT, explained by cats. ChatGPT writes by guessing the next piece of text, over and over, based on patterns from huge amounts of text. Usually right, sometimes confidently wrong, so check anything important.\n\n#chatgpt #ai #artificialintelligence #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 400,
+  "status": "queued"
  }
 ]
