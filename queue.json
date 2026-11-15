@@ -90,5 +90,14 @@
   "caption": "The slow loop, explained by cats. Checking 'is this in my list?' inside a loop makes Python walk the whole list every time. Turn the list into a set and the same loop runs hundreds of times faster.\n\n#python #coding #programming #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4233,
   "status": "queued"
+ },
+ {
+  "slug": "git-basics",
+  "version": "git-basics_v1",
+  "at": "2026-11-16T12:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/git-basics-20261116-1900.mp4",
+  "caption": "Git in 45 seconds, explained by cats. Git keeps every saved version of your project. A commit is a snapshot, a branch is a label for an experiment, and merge brings the experiment back into main.\n\n#git #coding #learntocode #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 5567,
+  "status": "queued"
  }
 ]
