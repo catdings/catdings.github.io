@@ -84,7 +84,11 @@
   "video_url": "https://catdings.github.io/v/api-20261116-1200.mp4",
   "caption": "APIs, explained by cats. An API is how one program asks another for something: your app sends a request, the server sends back data. The app only knows the menu of things it can ask for.\n\n#api #coding #webdev #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 3333,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "18108155183002310",
+  "permalink": "https://www.instagram.com/reel/DfzTE3iArXf/",
+  "posted_at": "2026-11-16T11:55+00:00"
  },
  {
   "slug": "slow-loop",
@@ -93,7 +97,11 @@
   "video_url": "https://catdings.github.io/v/slow-loop-20261116-1600.mp4",
   "caption": "The slow loop, explained by cats. Checking 'is this in my list?' inside a loop makes Python walk the whole list every time. Turn the list into a set and the same loop runs hundreds of times faster.\n\n#python #coding #programming #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4233,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "17952862527341369",
+  "permalink": "https://www.instagram.com/reel/DfzTPvFIbnH/",
+  "posted_at": "2026-11-16T11:55+00:00"
  },
  {
   "slug": "git-basics",
