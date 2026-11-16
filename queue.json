@@ -71,7 +71,11 @@
   "video_url": "https://catdings.github.io/v/works-on-my-machine-20261116-0900.mp4",
   "caption": "Works on my machine, explained by cats. Same code, different machine, different result: the environment changed. Pin your Python and library versions, or pack everything into a container, so every machine runs the same setup.\n\n#programming #python #docker #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4533,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "18117939902599370",
+  "permalink": "https://www.instagram.com/reel/DfyY0y8CuOU/",
+  "posted_at": "2026-11-16T03:26+00:00"
  },
  {
   "slug": "api",
