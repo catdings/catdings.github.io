@@ -142,5 +142,14 @@
   "caption": "AI hallucinations, explained by cats. A language model writes by guessing the most likely next word, again and again. Nothing in that loop checks facts, so a fluent answer can be completely made up. Check the sources.\n\n#ai #llm #artificialintelligence #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4700,
   "status": "queued"
+ },
+ {
+  "slug": "memory-leak",
+  "version": "memory-leak_v1",
+  "at": "2026-11-26T12:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/memory-leak-20261126-1900.mp4",
+  "caption": "Memory leaks, explained by cats. A server that dies every few hours and comes back after a restart is often leaking memory. The classic culprit: a cache that never forgets. Give it a limit, like Python's lru_cache.\n\n#python #coding #debugging #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 4867,
+  "status": "queued"
  }
 ]
