@@ -133,5 +133,14 @@
   "caption": "Floating point, explained by cats. Why does 0.1 + 0.2 not equal 0.3 in Python? Computers store numbers in binary, where 0.1 never ends, so tiny errors add up. For money, count whole cents or use the decimal module.\n\n#python #coding #programming #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 3533,
   "status": "queued"
+ },
+ {
+  "slug": "ai-hallucination",
+  "version": "ai-hallucination_v1",
+  "at": "2026-11-26T04:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/ai-hallucination-20261126-1100.mp4",
+  "caption": "AI hallucinations, explained by cats. A language model writes by guessing the most likely next word, again and again. Nothing in that loop checks facts, so a fluent answer can be completely made up. Check the sources.\n\n#ai #llm #artificialintelligence #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 4700,
+  "status": "queued"
  }
 ]
