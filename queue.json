@@ -124,5 +124,14 @@
   "caption": "QRIS news, explained by cats. Bank Indonesia says QRIS passed 20 billion transactions (16 Nov 2026) and warned that digital fraud is rising. One habit protects you: read the receiver's name in your app before you pay.\n\n#qris #indonesia #cybersecurity #technews #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 5500,
   "status": "queued"
+ },
+ {
+  "slug": "floating-point",
+  "version": "floating-point_v2",
+  "at": "2026-11-25T12:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/floating-point-20261125-1900.mp4",
+  "caption": "Floating point, explained by cats. Why does 0.1 + 0.2 not equal 0.3 in Python? Computers store numbers in binary, where 0.1 never ends, so tiny errors add up. For money, count whole cents or use the decimal module.\n\n#python #coding #programming #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 3533,
+  "status": "queued"
  }
 ]
