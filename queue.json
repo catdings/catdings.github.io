@@ -151,5 +151,14 @@
   "caption": "Memory leaks, explained by cats. A server that dies every few hours and comes back after a restart is often leaking memory. The classic culprit: a cache that never forgets. Give it a limit, like Python's lru_cache.\n\n#python #coding #debugging #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4867,
   "status": "queued"
+ },
+ {
+  "slug": "passkeys",
+  "version": "passkeys_v2",
+  "at": "2026-11-27T12:00:00+00:00",
+  "video_url": "https://catdings.github.io/v/passkeys-20261127-1900.mp4",
+  "caption": "Passkeys, explained by cats. Passwords vs passkeys: a passkey only works on the real site and the site never gets your secret, so phishing and database leaks get nothing. Use passkeys where you can, a password manager everywhere else.\n\n#cybersecurity #passkeys #infosec #CATding #tech #learnontiktok #catmemes",
+  "thumb_offset_ms": 3633,
+  "status": "queued"
  }
 ]
