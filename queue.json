@@ -123,7 +123,11 @@
   "video_url": "https://catdings.github.io/v/qris-news-20261125-1100.mp4",
   "caption": "QRIS news, explained by cats. Bank Indonesia says QRIS passed 20 billion transactions (16 Nov 2026) and warned that digital fraud is rising. One habit protects you: read the receiver's name in your app before you pay.\n\n#qris #indonesia #cybersecurity #technews #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 5500,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "18120902303017895",
+  "permalink": "https://www.instagram.com/reel/DgJrbKzh_a5/",
+  "posted_at": "2026-11-25T04:31+00:00"
  },
  {
   "slug": "floating-point",
