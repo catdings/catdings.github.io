@@ -136,7 +136,11 @@
   "video_url": "https://catdings.github.io/v/floating-point-20261125-1900.mp4",
   "caption": "Floating point, explained by cats. Why does 0.1 + 0.2 not equal 0.3 in Python? Computers store numbers in binary, where 0.1 never ends, so tiny errors add up. For money, count whole cents or use the decimal module.\n\n#python #coding #programming #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 3533,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "18174769729481342",
+  "permalink": "https://www.instagram.com/reel/DgKyYe-hlh7/",
+  "posted_at": "2026-11-25T14:51+00:00"
  },
  {
   "slug": "ai-hallucination",
