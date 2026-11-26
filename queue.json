@@ -149,7 +149,11 @@
   "video_url": "https://catdings.github.io/v/ai-hallucination-20261126-1100.mp4",
   "caption": "AI hallucinations, explained by cats. A language model writes by guessing the most likely next word, again and again. Nothing in that loop checks facts, so a fluent answer can be completely made up. Check the sources.\n\n#ai #llm #artificialintelligence #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4700,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "18185489530434206",
+  "permalink": "https://www.instagram.com/reel/DgMVBBzzfJx/",
+  "posted_at": "2026-11-26T05:13+00:00"
  },
  {
   "slug": "memory-leak",
