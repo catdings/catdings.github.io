@@ -162,7 +162,11 @@
   "video_url": "https://catdings.github.io/v/memory-leak-20261126-1900.mp4",
   "caption": "Memory leaks, explained by cats. A server that dies every few hours and comes back after a restart is often leaking memory. The classic culprit: a cache that never forgets. Give it a limit, like Python's lru_cache.\n\n#python #coding #debugging #CATding #tech #learnontiktok #catmemes",
   "thumb_offset_ms": 4867,
-  "status": "queued"
+  "status": "posted",
+  "tries": 1,
+  "media_id": "17959768014296273",
+  "permalink": "https://www.instagram.com/reel/DgNaYoyqvWM/",
+  "posted_at": "2026-11-26T15:19+00:00"
  },
  {
   "slug": "passkeys",
